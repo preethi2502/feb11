@@ -1,0 +1,31 @@
+Git
+
+Global Information Tracker  
+GIT BASH ( download application ) 
+GIT HUB  ( sign in )
+
+Git - Version Control System 
+
+peer review ( senior ) + share the codes to the team 
+
+
+Git config -- to set the authour name and the email address 
+user email
+user name 
+ls- ltr  --check the files available in the project
+git init -- it helps to initialize / start a new space 1
+git add  -- adds a file to the exixting area ( space ) 
+git commit-m -- pass the message 
+git remote add origin -- pass the space created in the GIT 
+git push -- this command send the file to the branch
+git pull  -- this command fetches and merges and get back the           codes
+
+
+
+
+
+
+
+
+
+
