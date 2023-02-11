@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11470" started-at="2023-02-04T11:55:36 IST" finished-at="2023-02-04T11:55:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11470" started-at="2023-02-04T11:55:36 IST" finished-at="2023-02-04T11:55:48 IST">
+      <class name="com.TestNG.ParallelDemo">
+        <test-method status="PASS" signature="chromeA()[pri:0, instance:com.TestNG.ParallelDemo@66d1af89]" name="chromeA" duration-ms="6979" started-at="2023-02-04T11:55:36 IST" finished-at="2023-02-04T11:55:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeA -->
+        <test-method status="PASS" signature="chromeB()[pri:0, instance:com.TestNG.ParallelDemo@66d1af89]" name="chromeB" duration-ms="4416" started-at="2023-02-04T11:55:43 IST" finished-at="2023-02-04T11:55:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeB -->
+      </class> <!-- com.TestNG.ParallelDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
